@@ -45,7 +45,7 @@ The core of this project is a Convolutional Neural Network (CNN) that is trained
 - **Pooling Layers**: Max-pooling layers to reduce the spatial dimensions.
 - **Fully Connected Layer**: Final dense layer with 345 neurons corresponding to the number of classes.
 - **Softmax Activation**: To output probabilities for each class.
-  ![Screenshot1](Doodle-Guesser-using-CNN-/screenshots/CNN.png)
+  ![Screenshot1](screenshots/CNN.png)
 
 ---
 
@@ -56,7 +56,7 @@ The CNN model trained on the QuickDraw dataset achieved excellent results:
 - **Training Accuracy**: 94.02% 🏆
 - **Validation Accuracy**: 94.06% 🎯
 - **Test Accuracy**: 94.06% ✅
-  ![Screenshot1](Doodle-Guesser-using-CNN-/screenshots/accuracy.png)
+  ![Screenshot1](screenshots/accuracy.png)
 
 ---
 
