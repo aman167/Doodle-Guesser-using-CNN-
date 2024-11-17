@@ -70,7 +70,7 @@ The game is deployed using [Streamlit](https://streamlit.io/), an open-source ap
 
 ## 📹 Demo Video
 
-[Doodle-Guesser-using-CNN-/screenshots/video_demo.mp4]
+[screenshots/video_demo.mp4]
 
 ---
 
@@ -78,9 +78,8 @@ The game is deployed using [Streamlit](https://streamlit.io/), an open-source ap
 
 Here are a few screenshots of the Doodle-Guesser Game:
 
-![Screenshot1]
-(Doodle-Guesser-using-CNN-/screenshots/airplane_demo.png)
-![Screenshot2](Doodle-Guesser-using-CNN-/screenshots/car_demo.png)
+![Screenshot1](screenshots/airplane_demo.png)
+![Screenshot2](screenshots/car_demo.png)
 
 ---
 
