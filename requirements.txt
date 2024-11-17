@@ -1,0 +1,7 @@
+tensorflow
+numpy
+streamlit
+matplotlib
+pillow
+streamlit-drawable-canvas
+requests

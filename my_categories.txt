@@ -1,0 +1,15 @@
+airplane
+bicycle
+bird
+birthday_cake
+candle
+car
+chair
+cloud
+fish
+mountain
+octopus
+smiley_face
+table
+tree
+umbrella
