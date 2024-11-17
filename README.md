@@ -70,7 +70,7 @@ The game is deployed using [Streamlit](https://streamlit.io/), an open-source ap
 
 ## 📹 Demo Video
 
-(screenshots/small_video_demo.mp4)
+[Watch Demo Video](screenshots/video_demo.mp4)
 
 ---
 
