@@ -45,7 +45,7 @@ The core of this project is a Convolutional Neural Network (CNN) that is trained
 - **Pooling Layers**: Max-pooling layers to reduce the spatial dimensions.
 - **Fully Connected Layer**: Final dense layer with 345 neurons corresponding to the number of classes.
 - **Softmax Activation**: To output probabilities for each class.
-  ![Screenshot1](Doodle-Guesser-using-CNN-/screenshots/CNN.png)
+  ![Screenshot1](screenshots/CNN.png)
 
 ---
 
@@ -56,7 +56,7 @@ The CNN model trained on the QuickDraw dataset achieved excellent results:
 - **Training Accuracy**: 94.02% 🏆
 - **Validation Accuracy**: 94.06% 🎯
 - **Test Accuracy**: 94.06% ✅
-  ![Screenshot1](Doodle-Guesser-using-CNN-/screenshots/accuracy.png)
+  ![Screenshot1](screenshots/accuracy.png)
 
 ---
 
@@ -70,7 +70,7 @@ The game is deployed using [Streamlit](https://streamlit.io/), an open-source ap
 
 ## 📹 Demo Video
 
-[Doodle-Guesser-using-CNN-/screenshots/video_demo.mp4]
+(screenshots/small_video_demo.mp4)
 
 ---
 
@@ -78,9 +78,8 @@ The game is deployed using [Streamlit](https://streamlit.io/), an open-source ap
 
 Here are a few screenshots of the Doodle-Guesser Game:
 
-![Screenshot1]
-(Doodle-Guesser-using-CNN-/screenshots/airplane_demo.png)
-![Screenshot2](Doodle-Guesser-using-CNN-/screenshots/car_demo.png)
+![Screenshot1](screenshots/airplane_demo.png)
+![Screenshot2](screenshots/car_demo.png)
 
 ---
 
@@ -89,10 +88,12 @@ Here are a few screenshots of the Doodle-Guesser Game:
 To run the Doodle-Guesser Game locally, follow these steps:
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/yourusername/doodle-guesser-game.git
 
    ```
+
 2. Run the CNN.ipynb:
    This will create -> train -> download the model in your local system.
 3. Run the Streamlit app:
